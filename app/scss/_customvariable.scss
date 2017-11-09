@@ -1,0 +1,25 @@
+
+$lightblack:#3a3c3d;
+$shadow-black:#605d5d;
+$lightgray:#fafafb;
+//$primary-color:#f01e1e;
+$primary-color: #C14B2F;
+
+
+
+@mixin  dark_btn {
+    display:inline-block;
+    margin:0 auto;
+    background:#565353;
+    color:white;
+    font-size:0.8rem;
+    padding:8px 16px;
+    line-height:20px;
+
+
+    &:hover {
+      color:white;
+      background:lighten(#565353,20%);
+      cursor:pointer;
+    }
+}
