@@ -11,12 +11,6 @@ require_once('program.php');
     <div class="container">
         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
 
-            <!-- indicator -->
-            <ol class="carousel-indicators" style="z-index: 999">
-                <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
-                <li data-target="#carouselExampleControls" data-slide-to="1"></li>
-                <li data-target="#carouselExampleControls" data-slide-to="2"></li>
-            </ol>
 
             <!--Slider -->
             <div class="carousel-inner index_landing_slider" role="listbox">
@@ -42,50 +36,19 @@ require_once('program.php');
 
                    </div>
 
-                <!--Second Slider -->
-                <div class="carousel-item slider-si" >
-                    <div class="container">
-                        <div class="text-wrapper animated fadeInRight">
-                            <div class="row justify-content-end ">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-
-
-                <!--Third Slider -->
-                <div class="carousel-item slider-rd">
-                    <div class="container">
-                        <div class="text-wrapper animated fadeInRight">
-                            <div class="row justify-content-end ">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
             </div>
 
-            <!--control-->
-            <a class="carousel-control-prev index-slider" href="#carouselExampleControls" role="button" data-slide="prev" >
-                <i class="fa fa-chevron-circle-left"  aria-hidden="true" style="color:black;font-size: 3.5rem;opacity: 0;transition:all 0.4s linear"></i>
-                <span class="sr-only">Previous</span>
+            <!--scroll for more-->
 
-            </a>
-            <a class="carousel-control-next index-slider" href="#carouselExampleControls" role="button" data-slide="next" >
-                <i class="fa fa-chevron-circle-right"  aria-hidden="true"  style="color:black;font-size: 3.5rem;opacity: 0;transition:all 0.4s linear"></i>
-                <span class="sr-only">Previous</span>
-            </a>
-
+            <div class="scrollformore" >
+                <div class="read_more_wrapper" style="position: absolute">
+                    <h5 style="opacity: 0"><a href="#">了解更多</a></h5>
+                </div>
+            </div>
 
         </div>
 
-        <!--scroll for more-->
-        <!--        <div class="scrollformore">-->
-        <!--            <p>scroll for more</p>-->
-        <!--            <a href="#whoweare" id="scroll-cta"><i class="fa fa-angle-down animated infinite fadeInUp" aria-hidden="true"></i></a>-->
-        <!---->
-        <!--        </div>-->
+
     </div>
 </section>
 
@@ -104,7 +67,7 @@ require_once('program.php');
 
                             <div class="col-lg-6">
                                 <h4 >公司简介</h4>
-                                <p class="animated ">多维教育，极目前瞻，无国界。<br><br>Knovva Academy位于美国波士顿，是专注 开发创新型教学产品的前沿教育科技公司。 作为美国顶尖高中的系统化内容提供方， Knovva Academy为全美高中生提供新型校外 课程、进行多元化教学补充。&nbsp;&nbsp;
+                                <p class="animated ">多维教育，极目前瞻，无国界。<br><br>Knovva Academy位于美国波士顿，是专注开发创新型教学产品的前沿教育科技公司。 作为美国顶尖高中的系统化内容提供方， Knovva Academy为全美高中生提供新型校外课程、进行多元化教学补充。&nbsp;&nbsp;
                                 </p>
 
                             </div>
@@ -338,7 +301,7 @@ require_once('program.php');
                 <a href="http://sd.sina.com.cn/edu/xykd/2016-02-29/105114132.html" target="_blank" >
                     <div class="card">
                         <div class="card-body">
-                            <h5>哈佛大学模拟G20峰会落幕 山东省实验中学代表表现优秀</h5>
+                            <h5>哈佛大学模拟G20峰会落幕，山东省实验中学代表表现优秀</h5>
                         </div>
                         <div class="card-footer">
                             <div class="row">
@@ -496,7 +459,7 @@ require_once('program.php');
                                 <i class="fa fa-quote-left" aria-hidden="true"></i>
 
                                 <div class="text-wrapper">
-                                    <p>“ModelG20教会我最多的就是认清不足， 寻找动力，然后继续披荆斩棘，首先要 有一个不错的梦想，然后不管你遇到的 是什么困难，它来的或早或晚，都不会 阻拦你成为你想要成为的那个人。”<br/></p>
+                                    <p>“ModelG20教会我最多的就是认清不足， 寻找动力，然后继续披荆斩棘，首先要有一个不错的梦想，然后不管你遇到的是什么困难，它来的或早或晚，都不会阻拦你成为你想要成为的那个人。”<br/></p>
                                 </div>
 
                                 <div class="author-wrapper">
@@ -516,7 +479,7 @@ require_once('program.php');
                                 <i class="fa fa-quote-left" aria-hidden="true"></i>
 
                                 <div class="text-wrapper">
-                                    <p>"我非常喜欢这个项目，因为它教会我很多 包括以前在辩论中没有学到过的怎样聪明 的回答别人的问题，以及如何跟别人商谈 谈判，以及怎样进行拉锯战。这些都是很 有用的谈判技巧，但是以前没有知道，现 在知道了觉得十分的有用。" </p>
+                                    <p>"我非常喜欢这个项目，因为它教会我很多，包括以前在辩论中没有学到过的怎样聪明的回答别人的问题，以及如何跟别人商谈谈判，以及怎样进行拉锯战。这些都是很有用的谈判技巧，但是以前没有知道，现在知道了觉得十分的有用。" </p>
                                 </div>
 
                                 <div class="author-wrapper">

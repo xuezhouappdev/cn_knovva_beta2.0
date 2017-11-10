@@ -40,13 +40,13 @@ include 'header.php';
 
     }
 
-    $teacher_Ross = new Teacher("Ross Weissman","哈佛大学教育学硕士，擅长课外学习项目设计。曾就职于哈佛 大学心理系、约翰霍普金斯大学。曾深入北极圈、墨西哥、奇 瓦瓦沙漠等偏远地区从事青少年体验式教育工作。","Chief Learning Officer","./img/portrait/portrait-ross");
-    $teacher_Pat = new Teacher("Patricia Lozada","哈佛大学肯尼迪政治学院硕士，曾任哈佛大学公共服务与公共 管理研究员，联合国公共政策特别顾问，在南美洲从事多年政 府官员工作。","Academic Designer","./img/portrait/portrait-pat");
-    $teacher_Abby = new Teacher("Abby Hu","哈佛大学肯尼迪政治学院硕士，中国人民大学应用经济学学 士。在青少年夏令营、领导力培训方面有丰富经验。","Senior Product Manager","./img/portrait/portrait-abby");
-    $teacher_Orly = new Teacher("Orly Barad","哈佛大学教育学院硕士，曾就职于哈佛大学医学院、波士顿 大学，为两所顶尖学校设计在线课程，擅长网络课程学习体 验优化。
+    $teacher_Ross = new Teacher("Ross Weissman","哈佛大学教育学硕士，擅长课外学习项目设计。曾就职于哈佛大学心理系、约翰霍普金斯大学。曾深入北极圈、墨西哥、奇瓦瓦沙漠等偏远地区从事青少年体验式教育工作。","Chief Learning Officer","./img/portrait/portrait-ross");
+    $teacher_Pat = new Teacher("Patricia Lozada","哈佛大学肯尼迪政治学院硕士，曾任哈佛大学公共服务与公共管理研究员，联合国公共政策特别顾问，在南美洲从事多年政府官员工作。","Academic Designer","./img/portrait/portrait-pat");
+    $teacher_Abby = new Teacher("Abby Hu","哈佛大学肯尼迪政治学院硕士，中国人民大学应用经济学学士。在青少年夏令营、领导力培训方面有丰富经验。","Senior Product Manager","./img/portrait/portrait-abby");
+    $teacher_Orly = new Teacher("Orly Barad","哈佛大学教育学院硕士，曾就职于哈佛大学医学院、波士顿大学，为两所顶尖学校设计在线课程，擅长网络课程学习体验优化。
 ","Senior Online Learning Designer","./img/portrait/portrait-orly");
-    $teacher_Chunxiao = new Teacher("Chunxiao Han","Chunxiao holds a Master's degree in Language and Literacy from Harvard Graduate School of Education and a B.A. in English Language and Literature from Beijing Foreign Studies University. She worked as the English language teacher in the Beijing New Oriental School, E-plus for K-12, Beijing Lengquan Village Hope Community, Beijing School for the Blind, and three local schools in Cameroon, Africa.","Academic Specialist","./img/portrait/portrait-chunxiao");
-    $teacher_Becca = new Teacher("Rebecca Shuman","哈佛大学教育学院硕士，深爱文学、艺术，长期致力于国际学 生英语素质培养。她曾帮助不同教育环境中的学生开展适应性 学习，热衷于研究创新型教育模式，以促进教育、个人和社会 协同发展。","Educational Specialist","./img/portrait/portrait-becca");
+    $teacher_Chunxiao = new Teacher("Chunxiao Han","哈佛大学教育学院硕士，北京外国语大学英语语言文学学士。曾在北京新东方学校、北外青少英语、北京冷泉村希望社区、北京市盲人学校和非洲喀麦隆等地任英语语言教师。","Academic Specialist","./img/portrait/portrait-chunxiao");
+    $teacher_Becca = new Teacher("Rebecca Shuman","哈佛大学教育学院硕士，深爱文学、艺术，长期致力于国际学 生英语素质培养。她曾帮助不同教育环境中的学生开展适应性学习，热衷于研究创新型教育模式，以促进教育、个人和社会 协同发展。","Educational Specialist","./img/portrait/portrait-becca");
 
 
 
@@ -83,7 +83,7 @@ include 'header.php';
                 <div class="text-wrapper">
                     <div class="text">
                         <h5>团队介绍</h5>
-                        <p><br>Knovva团队拥在自全球各地(北美、南美、中东、西非、东南亚 等)丰富的教学和科研经验。在此基础上，我们整合哈佛大学及麻省 理工学院等美国顶尖教育资源，与全球领先的研究机构、教育机构共 同合作。运用最前沿的教育理念和教研成果，为全球学生提供卓越的 定制化项目。</p>
+                        <p><br>Knovva团队拥在自全球各地(北美、南美、中东、西非、东南亚 等)丰富的教学和科研经验。在此基础上，我们整合哈佛大学及麻省 理工学院等美国顶尖教育资源，与全球领先的研究机构、教育机构共同合作。运用最前沿的教育理念和教研成果，为全球学生提供卓越的定制化项目。</p>
                     </div>
                 </div>
             </div>
@@ -98,7 +98,7 @@ include 'header.php';
                     <div class="text">
                         <h5>教育理念</h5>
                         <br><p>求同存异，全局发展<br>
-                            Knovva Academy力求最大限度结合科技革新与人文知识，以跨学科 和多元文化为基础，挑战碎片化问题解决思维并重构智能教学生态系 统。以全局发展思维，全面发展学员“软实力”，用前瞻目光探索全球 化背景下的未来教育模式。</p>
+                            Knovva Academy力求最大限度结合科技革新与人文知识，以跨学科和多元文化为基础，挑战碎片化问题解决思维并重构智能教学生态系统。以全局发展思维，全面发展学员“软实力”，用前瞻目光探索全球化背景下的未来教育模式。</p>
                     </div>
                 </div>
             </div>
@@ -121,7 +121,7 @@ include 'header.php';
 
                         <h5>产品设计</h5>
                         <p><br>专精覃思，以小见大<br>
-                            Knovva Academy的教育产品结合当下最新授课模式，严选教材， 旨在以精准高效、多维互动的课程，让学习不再受文化以及地域的限 制，培养全方面人才。
+                            Knovva Academy的教育产品结合当下最新授课模式，严选教材， 旨在以精准高效、多维互动的课程，让学习不再受文化以及地域的限制，培养全方面人才。
                             读角兽英文原著精读课程以文学思辨为导向，同步提高学员的词汇积
                             累与文化素养，巩固语言和写作基础。在此基础下，跨界课程将带领
                             中外学员一起，以混合式学习构建学知网络，共同展望未来。</p>
@@ -529,7 +529,7 @@ include 'header.php';
                                 <i class="fa fa-quote-left" aria-hidden="true"></i>
 
                                 <div class="text-wrapper">
-                                    <p>“ModelG20教会我最多的就是认清不足， 寻找动力，然后继续披荆斩棘，首先要 有一个不错的梦想，然后不管你遇到的 是什么困难，它来的或早或晚，都不会 阻拦你成为你想要成为的那个人。”<br/></p>
+                                    <p>“ModelG20教会我最多的就是认清不足，寻找动力，然后继续披荆斩棘，首先要有一个不错的梦想，然后不管你遇到的是什么困难，它来的或早或晚，都不会阻拦你成为你想要成为的那个人。”<br/></p>
                                 </div>
 
                                 <div class="author-wrapper">
@@ -549,7 +549,7 @@ include 'header.php';
                                 <i class="fa fa-quote-left" aria-hidden="true"></i>
 
                                 <div class="text-wrapper">
-                                    <p>"我非常喜欢这个项目，因为它教会我很多 包括以前在辩论中没有学到过的怎样聪明 的回答别人的问题，以及如何跟别人商谈 谈判，以及怎样进行拉锯战。这些都是很 有用的谈判技巧，但是以前没有知道，现 在知道了觉得十分的有用。" </p>
+                                    <p>"我非常喜欢这个项目，因为它教会我很多，包括以前在辩论中没有学到过的怎样聪明的回答别人的问题，以及如何跟别人商谈谈判，以及怎样进行拉锯战。这些都是很有用的谈判技巧，但是以前没有知道，现在知道了觉得十分的有用。" </p>
                                 </div>
 
                                 <div class="author-wrapper">

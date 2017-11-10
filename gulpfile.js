@@ -10,7 +10,7 @@ gulp.task('serve', ['sass'], function() {
 
     browserSync.init({
         open: 'external',
-        proxy: "http://localhost:8888/cn_knovva_new/app/",
+        proxy: "http://localhost:8888/cn_knovva_beta2.0/app/",
         port: 8088
     });
 

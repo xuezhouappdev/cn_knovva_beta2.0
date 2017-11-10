@@ -26,7 +26,7 @@ if (window.location.href != "../vertical-slide.php") {
 
         if($(document).scrollTop() > 20) {
             $('#mynav').addClass("background");
-            p1.attr('src', './img/KAlogo.png').attr('height','24px');
+            p1.attr('src', './img/KAlogo.png').attr('height','20px');
         }
         else {
             $('#mynav').removeClass("background");
@@ -178,7 +178,7 @@ var landing_images= $(".slider .carousel-item");
 var landing_controller = $(".index-slider i");
 
 landing_images.eq(0).click(function(){
-    window.location.href="http://www.modelg20cn.org";
+    window.location.href="#";
 
 });
 
