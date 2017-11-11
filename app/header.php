@@ -4,7 +4,7 @@ session_start();
 ?>
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="cn" xml:lang="cn">
 <head>
     <!-- Required meta tags -->
 

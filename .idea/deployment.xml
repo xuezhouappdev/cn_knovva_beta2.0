@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="bluehost_CN">
+  <component name="PublishConfigData" serverName="bluehost_CN" uploadOnCheckin="5d932f0d-9598-46de-9eab-a5ed8404c307">
     <serverData>
       <paths name="bluehost_CN">
         <serverdata>
@@ -16,5 +16,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="bluehost_CN" />
   </component>
 </project>
