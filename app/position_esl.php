@@ -75,8 +75,8 @@ include 'header.php';
 
                 <h5>Qualifications</h5>
                 <ul>
-                    <li>1.	Bachelor's degree in education or related field (History, English Language Arts, Literature, Anthropology, Foreign Language, Linguistics, Communication).</li>
-                    <li>2.	Priority is given to those with a strong background in history and/or anthropology.</li>
+                    <li>Bachelor's degree in education or related field (History, English Language Arts, Literature, Anthropology, Foreign Language, Linguistics, Communication).</li>
+                    <li>Priority is given to those with a strong background in history and/or anthropology.</li>
                 </ul>
 
                 <h5>Desired Background</h5>
