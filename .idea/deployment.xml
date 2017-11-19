@@ -5,7 +5,7 @@
       <paths name="bluehost_CN">
         <serverdata>
           <mappings>
-            <mapping deploy="cn/app" local="$PROJECT_DIR$" web="/app" />
+            <mapping deploy="/cn" local="$PROJECT_DIR$" web="/app" />
           </mappings>
           <excludedPaths>
             <excludedPath local="true" path="$PROJECT_DIR$/gulpfile.js" />
